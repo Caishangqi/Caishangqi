@@ -1,7 +1,17 @@
-# 🎆Yo! Here is Caishangqi🎆
+# Caizii or Caishangqi
 
 ### <p align="center"> SpringBoot Engineering </p>
 
+<p align="center">
+<img height=512px length = 512px src="https://user-images.githubusercontent.com/39553613/232686427-78efa364-3da7-4725-996b-9e9548f6bac7.png" />
+</p>
+<p align="center">
+Если б можно былоЕсли б время не давило
+  <br/>
+Я б наверное лёг спать.
+  <br/>
+Пашу как лошадь я в преддверии дедлайна
+</p>
 <br/>
 
 <a href="https://github.com/Caishangqi">
