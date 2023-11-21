@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:EF5F33,50:EF5F33,100:EF5F33&height=180&text=CAIZII%20регистрироваться！&animation=twinkling&fontColor=D8D8D4FF&fontSize=30&fontAlignY=37" alt="title" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=EF5F33&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+MY+NAME+%3D%3D+CAIZII;MY+EXPERIENCE+%3E+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THX+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=EF5F33&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+MY+NAME+%3D%3D+CAIZII;MY+EXPERIENCE+%3E+8+YEARS+IN+PROGRAMMING;PIXEL+ARTIST;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;I+LOVE+MINECRAFT;THX+:%29)](https://git.io/typing-svg)
 
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caishangqi&theme=github-dark&hide_border=true&area=true&color=EF5F33&line=EF5F33&point=EF5F33&area_color=EF5F33" alt="graph form stats" />
