@@ -21,8 +21,8 @@
 <a href="https://github.com/Caishangqi/CharmingCraft">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=CharmingCraft&theme=dark&hide_border=true" width="45%" height="auto%">
 </a>
-<a href="https://github.com/Caishangqi/homeward-plugin-cooking">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=homeward-plugin-cooking&theme=dark&hide_border=true" width="45%" height="auto%">
+<a href="https://github.com/Caishangqi/charming-realm-system">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=charming-realm-system&theme=dark&hide_border=true" width="45%" height="auto%">
 </a>
 </p>
 
