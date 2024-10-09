@@ -24,6 +24,9 @@
 <a href="https://github.com/Caishangqi/charming-realm-system">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=charming-realm-system&theme=dark&hide_border=true" width="45%" height="auto%">
 </a>
+<a href="https://github.com/Caishangqi/Eurekiel">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=Eurekiel&theme=dark&hide_border=true" width="45%" height="auto%">
+</a>
 </p>
 
 
