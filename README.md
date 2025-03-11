@@ -18,14 +18,17 @@
 ### Currently Working On:
 
 <p align="center">
+<a href="https://github.com/Caishangqi/EnigmaVoxel">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=EnigmaVoxel&theme=dark&hide_border=true" width="45%" height="auto%">  
+</a>
 <a href="https://github.com/Caishangqi/CharmingCraft">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=CharmingCraft&theme=dark&hide_border=true" width="45%" height="auto%">
 </a>
 <a href="https://github.com/Caishangqi/charming-realm-system">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=charming-realm-system&theme=dark&hide_border=true" width="45%" height="auto%">
 </a>
-<a href="https://github.com/Caishangqi/Eurekiel">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=Eurekiel&theme=dark&hide_border=true" width="45%" height="auto%">
+<a href="https://github.com/Caishangqi/CharmingJourney-Core">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=CharmingJourney-Core&theme=dark&hide_border=true" width="45%" height="auto%">  
 </a>
 </p>
 
@@ -33,6 +36,8 @@
 ### Languages:
 
 ![C++](https://img.shields.io/badge/c++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)&nbsp;
+![HLSL](https://img.shields.io/badge/hlsl-0D1117?style=for-the-badge&logo=hlsl&logoColor=00599C)&nbsp;
+![GLSL](https://img.shields.io/badge/glsl-0D1117?style=for-the-badge&logo=glsl&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000)&nbsp;
 ![Js](https://img.shields.io/badge/Js-0D1117?style=for-the-badge&logo=javascript&logoColor=3178C6)&nbsp;
 ![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)&nbsp;
@@ -52,7 +57,8 @@
 ### GameEngines:
 
 ![Unreal](https://img.shields.io/badge/unreal-0D1117?style=for-the-badge&logo=unrealengine)&nbsp;
-
+![Unity](https://img.shields.io/badge/unity-0D1117?style=for-the-badge&logo=unity)&nbsp;
+![Godot](https://img.shields.io/badge/godot-0D1117?style=for-the-badge&logo=godot)&nbsp;
 ### IDEs:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/intellij_idea-0D1117?style=for-the-badge&logo=intellijidea)&nbsp;
