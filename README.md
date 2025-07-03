@@ -3,36 +3,35 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=EF5F33&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+MY+NAME+%3D%3D+CAIZII;MY+EXPERIENCE+%3E+8+YEARS+IN+PROGRAMMING;PIXEL+ARTIST;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;I+LOVE+MINECRAFT;THX+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caishangqi&theme=github-dark&hide_border=true&area=true&color=EF5F33&line=EF5F33&point=EF5F33&area_color=EF5F33" alt="graph form stats" />
+   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caishangqi&theme=github-dark&hide_border=true&area=true&color=EF5F33&line=EF5F33&point=EF5F33&area_color=EF5F33" alt="graph form stats" />
 </div>
 
 <div align="center">
-  <img width="43%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Caishangqi&show_icons=true&hide_border=true&title_color=EF5F33&icon_color=EF5F33&text_color=B6B6AFFF&bg_color=0D1117" alt="stats" />
-  <img width="40%" height="auto%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caishangqi&layout=compact&hide_border=true&hide_title=true&text_color=B6B6AFFF&bg_color=0D1117" alt="top languages" />
+  <img width="51%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Caishangqi&theme=dark&show_icons=true&hide_border=true&title_color=EF5F33&icon_color=EF5F33&text_color=B6B6AFFF" alt="stats" />
+  <img width="48%" height="auto%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caishangqi&theme=dark&layout=compact&hide_border=true&hide_title=true&text_color=B6B6AFFF" alt="top languages" />
 </div>
 
 <div align="center">
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Caishangqi&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=F5830AFF&fire=F5830AFF" alt="stats" />
+  <img height="auto" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Caishangqi&theme=dark&hide_border=true&stroke=0000&ring=F5830AFF&fire=F5830AFF" alt="stats" />
 </div>
 
 ### Currently Working On:
 
 <p align="center">
-   <a href="https://github.com/Caishangqi/Eurekiel">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=Eurekiel&theme=dark&hide_border=true" width="90%" height="auto%">  
+<a href="https://github.com/Caishangqi/Eurekiel">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=Eurekiel&theme=dark&hide_border=true" width="100%" height="auto%">  
 </a>
-
 <a href="https://github.com/Caishangqi/CharmingCraft">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=CharmingCraft&theme=dark&hide_border=true" width="45%" height="auto%">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=CharmingCraft&theme=dark&hide_border=true" width="49%" height="auto%">
 </a>
 <a href="https://github.com/Caishangqi/charming-realm-system">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=charming-realm-system&theme=dark&hide_border=true" width="45%" height="auto%">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=charming-realm-system&theme=dark&hide_border=true" width="49%" height="auto%">
 </a>
 <a href="https://github.com/Caishangqi/EnigmaVoxel">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=EnigmaVoxel&theme=dark&hide_border=true" width="45%" height="auto%">  
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=EnigmaVoxel&theme=dark&hide_border=true" width="49%" height="auto%">  
 </a>
 <a href="https://github.com/Caishangqi/CppImplementDesignPatterns">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=CppImplementDesignPatterns&theme=dark&hide_border=true" width="45%" height="auto%">  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=CppImplementDesignPatterns&theme=dark&hide_border=true" width="49%" height="auto%">  
 </a>
 </p>
 
