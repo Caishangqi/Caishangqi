@@ -30,8 +30,8 @@
 <a href="https://github.com/Caishangqi/EnigmaVoxel">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=EnigmaVoxel&theme=dark&hide_border=true" width="49%" height="auto%">  
 </a>
-<a href="https://github.com/Caishangqi/CppImplementDesignPatterns">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=CppImplementDesignPatterns&theme=dark&hide_border=true" width="49%" height="auto%">  
+<a href="https://github.com/Caishangqi/Eurekiel-Voxel-Deferred-Rendering">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=Eurekiel-Voxel-Deferred-Rendering&theme=dark&hide_border=true" width="49%" height="auto%">  
 </a>
 </p>
 
