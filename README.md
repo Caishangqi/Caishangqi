@@ -21,6 +21,9 @@
 <a href="https://github.com/Caishangqi/Eurekiel">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=Eurekiel&theme=dark&hide_border=true" width="100%" height="auto%">  
 </a>
+   <a href="https://github.com/Caishangqi/EnigmaEngine">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=EnigmaEngine&theme=dark&hide_border=true" width="100%" height="auto%">  
+</a>
 <a href="https://github.com/Caishangqi/CharmingCraft">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caishangqi&repo=CharmingCraft&theme=dark&hide_border=true" width="49%" height="auto%">
 </a>
